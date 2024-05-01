@@ -1,0 +1,61 @@
+/*
+Theme name: Electroship
+Description:Electrochip is a modern and professional WordPress theme designed for electrical service providers.
+It features a clean and responsive design, making it suitable for showcasing services, blog posts, and contact information.
+Author: Amna Asif
+Version: 1.0
+*/
+
+ 
+.bloginfo{
+    margin-top: 15px;
+    padding-left: 4px;
+}
+/* .current-menu-item a{
+    background-color: #4b208c;
+    color: white;
+    
+  
+  } */
+  .current_page_item a {
+    background-color: #4b208c;
+    color: white;
+
+  }
+  
+
+  
+  .nav-link :active a {
+    color: white;
+  } 
+
+  #menu-item-20{
+    color: white;
+  }
+
+  
+    /* Pagination */
+.pagination {
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.pagination a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 0 5px;
+  background-color: #190734;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 6px;
+
+}
+
+.pagination a:hover {
+  background-color: #190734;
+  color: #ffffff;
+
+}
+ 
+
+
